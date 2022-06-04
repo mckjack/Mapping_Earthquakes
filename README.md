@@ -6,3 +6,4 @@ To view the interactive webpage the user must go to https://www.mapbox.com/ to r
 ## Images
 ![Image1](https://github.com/mckjack/Mapping_Earthquakes/blob/main/Tectonic.png)
 ![Image2](https://github.com/mckjack/Mapping_Earthquakes/blob/main/Tectonic%202.png)
+![Image3](https://github.com/mckjack/Mapping_Earthquakes/blob/main/Tectonic%203.png)
